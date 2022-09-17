@@ -29,7 +29,7 @@ yarn jest --init
 When I runned `yarn jest --init`, 
 I typed the following answers for each config:
 
-| Config | Answer |
+| Config | Answers |
 | --- | --- |
 | Would you like to use Jest when running "test" script in "package.json"? | Y |
 | Would you like to use Typescript for the configuration file? | N |
