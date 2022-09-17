@@ -1,6 +1,6 @@
 TN:
 SF:src/App.jsx
-FN:1,App
+FN:3,App
 FNF:1
 FNH:1
 FNDA:1,App
@@ -14,9 +14,11 @@ DA:7,1
 DA:8,1
 DA:9,1
 DA:10,1
-LF:10
-LH:10
-BRDA:1,0,0,1
+DA:11,1
+DA:12,1
+LF:12
+LH:12
+BRDA:3,0,0,1
 BRF:1
 BRH:1
 end_of_record
