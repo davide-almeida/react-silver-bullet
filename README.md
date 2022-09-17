@@ -57,3 +57,10 @@ mkdir tests
 ```
 
 Now, you can to write your tests file in `react-silver-bullet/tests`, [like this example](tests/App.test.jsx).
+
+## References
+- https://jestjs.io/pt-BR/docs/getting-started
+- https://testing-library.com/docs/ecosystem-jest-dom/
+- https://testing-library.com/docs/react-testing-library/intro/
+- https://testing-library.com/docs/queries/byrole/
+- https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
